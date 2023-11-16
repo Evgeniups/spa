@@ -6,7 +6,7 @@ const About = () => {
       <Helmet>
         <title>About</title>
       </Helmet>
-      <div className='text-2xl font-bold text-sky-900'>About</div>
+      <div className='text-2xl font-bold text-sky-900'>About page</div>
     </div>
   );
 };
