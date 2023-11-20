@@ -7,6 +7,7 @@ const Header = () => {
       <NavLink to='/about'>About</NavLink>
       <NavLink to='/contacts'>Contacts</NavLink>
       <NavLink to='/people'>People</NavLink>
+      <NavLink to='/framer'>Framer</NavLink>
     </header>
   );
 };
