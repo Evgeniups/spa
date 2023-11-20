@@ -13,7 +13,7 @@ const Framer = ({title}) => {
     visible: i => ({
       opacity: 1,
       y: 0,
-      transition: {delay: i * 0.5},
+      transition: {delay: i * 0.6},
     }),
   };
 
